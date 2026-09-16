@@ -1,0 +1,5 @@
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Set-Cookie: training_session=eyJyb2xlIjoiYW5hbHlzdCIsImZsYWciOiJGQUxDT057NzQ2OGViNzJmNWM0MmU2NTVkMjlhODA0fSJ9; Path=/
+
+This is an offline training response.

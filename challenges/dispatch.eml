@@ -1,0 +1,17 @@
+From: dispatch@example.invalid
+To: analyst@example.invalid
+Subject: Patrol archive
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="falcon-boundary"
+
+--falcon-boundary
+Content-Type: text/plain
+
+Find the attached note.
+--falcon-boundary
+Content-Type: text/plain; name="note.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="note.txt"
+
+RkFMQ09OezVlN2ZhYTA1OTI1YzE1ZDg2NTM1YTgxYn0=
+--falcon-boundary--

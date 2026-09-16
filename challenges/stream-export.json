@@ -1,0 +1,47 @@
+{
+  "format": "packet summary; payloads are hexadecimal",
+  "packets": [
+    {
+      "stream": 7,
+      "frame": 1,
+      "seq": 12007,
+      "hex": "61346333616633"
+    },
+    {
+      "stream": 7,
+      "frame": 2,
+      "seq": 12028,
+      "hex": "6562367d"
+    },
+    {
+      "stream": 7,
+      "frame": 3,
+      "seq": 12021,
+      "hex": "33333237346335"
+    },
+    {
+      "stream": 7,
+      "frame": 4,
+      "seq": 12014,
+      "hex": "30396633326234"
+    },
+    {
+      "stream": 7,
+      "frame": 5,
+      "seq": 12007,
+      "hex": "61346333616633"
+    },
+    {
+      "stream": 7,
+      "frame": 6,
+      "seq": 12000,
+      "hex": "46414c434f4e7b"
+    },
+    {
+      "stream": 9,
+      "frame": 99,
+      "seq": 12000,
+      "hex": "46414c434f4e7b6465636f797d"
+    }
+  ]
+}

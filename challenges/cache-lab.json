@@ -1,0 +1,8 @@
+{
+  "edge_rule": "deny paths starting with /internal/",
+  "cache_key": "Resolve dot segments in the path, then discard query string.",
+  "backend_route": "/internal/flag",
+  "public_prefix": "/public/",
+  "ciphertext": "693139212327184d1a1f1f505645564708570a49555b58031f154c5b585d0552",
+  "key_encoding": "UTF-8 bytes of exact URL path, repeating XOR"
+}

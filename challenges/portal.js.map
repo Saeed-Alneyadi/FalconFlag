@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "file": "portal.js",
+  "sources": [
+    "src/public.js",
+    "src/internal.js"
+  ],
+  "names": [],
+  "mappings": "",
+  "sourcesContent": [
+    "export const title = \"Patrol\";",
+    "// accidentally bundled internal configuration\nexport const internalToken = \"RkFMQ09Oezc5YzMwNWI3ZjM3Yzk3Mjk3YmMwMGU1MH0=\"; // base64"
+  ]
+}
